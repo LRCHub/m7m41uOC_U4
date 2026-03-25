@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "TAKE OFF",
+  "base_artist": "Reol",
+  "createdAt": "2026-03-25T03:12:55.586023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take Off Your Cool (feat. Norah Jones)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/01_Take_Off_Your_Cool_(feat._Norah_Jones)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Off Your Cool (feat. Norah Jones)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/02_Take_Off_Your_Cool_(feat._Norah_Jones)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Off Your Shoes",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/03_Take_Off_Your_Shoes_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Off Your Shoes",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/04_Take_Off_Your_Shoes_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Off",
+      "artist": "Jeremih",
+      "has_synced": true,
+      "path": "select/05_Take_Off_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Off Your Clothes",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/06_Take_Off_Your_Clothes_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Off Your Shirt",
+      "artist": "Bibio",
+      "has_synced": true,
+      "path": "select/07_Take_Off_Your_Shirt_Bibio.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take Off",
+      "artist": "Cocoon",
+      "has_synced": false,
+      "path": "select/08_Take_Off_Cocoon.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take Off",
+      "artist": "Githead",
+      "has_synced": false,
+      "path": "select/09_Take_Off_Githead.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Off Your T-Shirt",
+      "artist": "It's a Musical",
+      "has_synced": false,
+      "path": "select/10_Take_Off_Your_T-Shirt_It's_a_Musical.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Off, Go Far",
+      "artist": "Liquido",
+      "has_synced": false,
+      "path": "select/11_Take_Off,_Go_Far_Liquido.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Take Off and Landing of Everything",
+      "artist": "Elbow",
+      "has_synced": false,
+      "path": "select/12_The_Take_Off_and_Landing_of_Everything_Elbow.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take Off Your Clothes (Like Scarlett Johansson)",
+      "artist": "Jack Douglass",
+      "has_synced": true,
+      "path": "select/13_Take_Off_Your_Clothes_(Like_Scarlett_Johansson)_Jack_Douglass.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take off Your Clothes (Like Scarlett Johansson)",
+      "artist": "Jacksfilms",
+      "has_synced": true,
+      "path": "select/14_Take_off_Your_Clothes_(Like_Scarlett_Johansson)_Jacksfilms.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TAKE OFF",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_TAKE_OFF_Reol.txt"
+    }
+  ]
+}
